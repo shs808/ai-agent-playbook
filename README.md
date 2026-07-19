@@ -1,6 +1,3 @@
-# ai-agent-playbook
-
-
 # OpenCode 모델 라우팅 프리셋 공유
 
 ## 목적
